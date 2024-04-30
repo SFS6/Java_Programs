@@ -1,0 +1,13 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "graalvm.home": "",
+    "graalvm.installations": [
+        ""
+    ],
+    "terminal.integrated.env.windows": {
+        "GRAALVM_HOME": ""
+    },
+    "java.configuration.runtimes": [],
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": ""
+}
